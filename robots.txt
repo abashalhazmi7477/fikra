@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abashalhazmi7477.github.io/fikra/sitemap.xml
